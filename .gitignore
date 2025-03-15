@@ -1,0 +1,23 @@
+# Node.js dependencies
+*node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Local uploads (if any)
+backend/uploads/
+
+# Build files
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
